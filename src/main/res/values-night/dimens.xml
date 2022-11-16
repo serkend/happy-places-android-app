@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <dimen name="fab_margin" >16</dimen>-->
+    <dimen name="no_records_available_text_size">16sp</dimen>
+</resources>
